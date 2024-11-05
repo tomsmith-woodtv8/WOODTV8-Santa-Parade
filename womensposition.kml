@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+        <kml xmlns='http://www.opengis.net/kml/2.2' xmlns:gx='http://www.google.com/kml/ext/2.2'>
+        <Document id='7366'>
+        <Style id='4893'>
+        <IconStyle id='0417'>
+        <colorMode>normal</colorMode>
+        <scale>5</scale><heading>0</heading>
+        <Icon id='4281'>
+        <href>C:\Users\tosmith\OneDrive - Nexstar Media Group, Inc\Documents\Racetrack 2\Racetrack 2\Marker_women.png</href>
+        </Icon>
+        </IconStyle>
+        </Style>
+        <Placemark id='7001'>
+        <styleUrl>#8687</styleUrl>
+        <Point id='5867'>
+        <coordinates>-85.66093333333333,42.98426666666667,0.0</coordinates>
+        </Point></Placemark>
+        </Document>
+        <NetworkLinkControl>
+        <minRefreshPeriod>1</minRefreshPeriod>
+        </NetworkLinkControl></kml>
